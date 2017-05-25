@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>NoCommsbackgroundsound</name>
+	<author>Brassqund</author>
+	<targetVersion>0.16.1393</targetVersion>
+	<description>Remove the background sound that play when using the comms.</description>
+</ModMetaData>
